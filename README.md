@@ -1,1 +1,1 @@
-# DSN-Lab02
+En una consola CMD escribir: docker compose -up
