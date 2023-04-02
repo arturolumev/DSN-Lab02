@@ -1,8 +1,8 @@
 Direcciones:
 
-http://localhost:8000/register
-http://localhost:8000/login
-http://localhost:8000/contacts
+- http://localhost:8000/register
+- http://localhost:8000/login
+- http://localhost:8000/contacts
 
 ![image](https://user-images.githubusercontent.com/102237232/229329990-fa7de8bf-2729-4459-b9a9-fedf246ae7eb.png)
 
