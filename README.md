@@ -14,11 +14,10 @@ Docker:
 
 Laravel:
 
-![image](https://user-images.githubusercontent.com/102237232/229330086-5077e83d-89c6-42f9-aab6-d5153636d4ab.png)
+![image](https://user-images.githubusercontent.com/102237232/229330464-8aedaee0-eabe-46f2-b3d0-84b9ebb47c32.png)
 
-![image](https://user-images.githubusercontent.com/102237232/229329990-fa7de8bf-2729-4459-b9a9-fedf246ae7eb.png)
+![image](https://user-images.githubusercontent.com/102237232/229330454-6fb43a21-0e12-4cc3-88ac-f6b7f6247a09.png)
 
-![image](https://user-images.githubusercontent.com/102237232/229330048-98d5949e-8e59-43e5-ba33-e8ca76db90a3.png)
+![image](https://user-images.githubusercontent.com/102237232/229330479-28881933-d897-4731-854f-97d6268dabe7.png)
 
-
-
+![image](https://user-images.githubusercontent.com/102237232/229330485-f2313e60-10b2-47e0-92a7-e57dbce3d063.png)
